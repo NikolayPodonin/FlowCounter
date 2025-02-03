@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FlowCounter</string>
+    <string name="input_number_text">Введите число</string>
+    <string name="calculate_text">Посчитать</string>
+    <string name="toast_error_text">Вводите только цифры</string>
+</resources>
